@@ -7,9 +7,6 @@ Welcome to the official GitHub repository for **Bniloms Digital**, where we crea
 
 ## 🚀 **About Bniloms Digital**  
 At **Bniloms Digital**, we believe in turning dreams into reality. Our mission is to empower women, especially immigrant women, to break free from the traditional 9-to-5 grind and create successful digital ventures. Through mentorship, coaching, and innovative digital solutions, we’re building a future where freedom and fulfillment are within reach.  
-
----
-
 ## 🎯 **Our Goals**  
 - **Mentorship First**: Providing personalized guidance for women at the start of their entrepreneurial journey.  
 - **Community Building**: Creating a supportive space where women can connect, learn, and grow together.  
@@ -46,9 +43,11 @@ Bniloms Digital is more than a brand—it’s a movement. As we grow, we envisio
 ---
 
 ## 🌍 **Connect with Us**  
-- **Website**: [bnilomsdigital.com](https://bnilomsdigital.com) *(Coming Soon)*  
+- **Website**: [bnilomsdigital.com](https://bnilomsdigital.com
 - **TikTok**: [@BnilomsDigital](https://www.tiktok.com/@bnilomsdigital)  
-- **Instagram**: [@BnilomsDigital](https://www.instagram.com/bnilomsdigital)  
+- **Instagram**: iloms.bn
+- (https://www.instagram.com/iloms.bn
+    
 - **Email**: hello@bnilomsdigital.com  
 
 ---
